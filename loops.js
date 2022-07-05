@@ -101,4 +101,4 @@ for (let i = 0; i <= 9; i++) {
 
 console.log("------------------------------------");
 console.log(" ");
-// Einde huiswerk opdracht
+// Einde huiswerk opdracht juni 2022
